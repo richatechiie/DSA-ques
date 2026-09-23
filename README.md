@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/richatechiie/DSA-ques/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/richatechiie/DSA-ques/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/richatechiie/DSA-ques/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/richatechiie/DSA-ques/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/richatechiie/DSA-ques/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/richatechiie/DSA-ques/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/richatechiie/DSA-ques/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/richatechiie/DSA-ques/tree/master/0037-sudoku-solver) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/richatechiie/DSA-ques/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
