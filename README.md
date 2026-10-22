@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/richatechiie/DSA-ques/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/richatechiie/DSA-ques/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/richatechiie/DSA-ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/richatechiie/DSA-ques/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/richatechiie/DSA-ques/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/richatechiie/DSA-ques/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/richatechiie/DSA-ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/richatechiie/DSA-ques/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/richatechiie/DSA-ques/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/richatechiie/DSA-ques/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/richatechiie/DSA-ques/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/richatechiie/DSA-ques/tree/master/0404-sum-of-left-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -118,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/richatechiie/DSA-ques/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/richatechiie/DSA-ques/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0404-sum-of-left-leaves](https://github.com/richatechiie/DSA-ques/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
